@@ -1,0 +1,6 @@
+{
+    "python.pythonPath": "/Users/zainulabideen/Development/environments/leads_env/bin/python",
+    "python.linting.pycodestyleEnabled": true,
+    "python.linting.pylintEnabled": true,
+    "git.ignoreLimitWarning": true
+}
